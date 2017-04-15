@@ -16,7 +16,7 @@ import java.util.Calendar;
  * Created by 85243 on 2017/3/6.
  */
 public class CalendarDemo {
-    public static void main(String[] args) {
+    public static void main(StringDemo[] args) {
 
         int dayOfMouth;
         int mouthOfYear;

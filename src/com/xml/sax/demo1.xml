@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<font size="small">
+    <name >ylw</name>
+    <sex size = "big">男</sex>
+    <hobbies>
+        <hobby>gjy</hobby>
+        <hobby>shagou</hobby>
+    </hobbies>
+</font>
