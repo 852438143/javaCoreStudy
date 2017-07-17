@@ -9,7 +9,7 @@ import java.util.List;
  *
  * -XX:PermSize=1M -XX:MaxPermSize=1M
  *
- *
+ *这里使用不断往常量池里面添加数据,导致常量池溢出,常量池在方法区中
  *
  * Exception in thread "main" java.lang.OutOfMemoryError: Java heap space这里显示的使堆异常,
  * 与书上讲的不符,可能是jdk1.8不支持设置方法区参数,所以没有方法区的溢出,导致堆溢出

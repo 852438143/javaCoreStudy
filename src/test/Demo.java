@@ -11,4 +11,5 @@ public class Demo{
         int a = 1|2;
         System.out.println(a);
     }
+
 }
